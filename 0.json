@@ -1,7 +1,8 @@
 {
   "name": "CryBot #0",
   "description": "NFT de prueba #0",
-  "image": "https://raw.githubusercontent.com/<tu-usuario>/nft-metadata/main/media/nfts/0.png",
+  "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/0.png",
+  "external_url": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/",
   "attributes": [
     {
       "trait_type": "Rango",
