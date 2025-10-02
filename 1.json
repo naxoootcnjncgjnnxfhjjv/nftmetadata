@@ -1,0 +1,15 @@
+{
+  "name": "CryBot #1",
+  "description": "NFT de prueba #1",
+  "image": "https://raw.githubusercontent.com/<tu-usuario>/nft-metadata/main/media/nfts/1.png",
+  "attributes": [
+    {
+      "trait_type": "Rango",
+      "value": "Legendario"
+    },
+    {
+      "trait_type": "Serie",
+      "value": "Alpha"
+    }
+  ]
+}
