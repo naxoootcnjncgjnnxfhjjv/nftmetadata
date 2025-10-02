@@ -1,13 +1,13 @@
 {
   "name": "CryBot NFTs",
   "description": "Colección experimental en TON administrada por CryBot.",
-  "image": "https://raw.githubusercontent.com/<tu-usuario>/nft-metadata/main/media/banners/banner.png",
-  "cover_image": "https://raw.githubusercontent.com/<tu-usuario>/nft-metadata/main/media/banners/banner.png",
+  "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/banner.png",
+  "cover_image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/banner.png",
   "external_url": "https://crybot.vercel.app",
   "social_links": {
     "twitter": "https://x.com/crybot",
     "telegram": "https://t.me/holahoabot",
     "website": "https://crybot.vercel.app"
   },
-  "base_uri": "https://cdn.jsdelivr.net/gh/<tu-usuario>/nft-metadata@main/collections/crybot/items/"
+  "base_uri": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/"
 }
