@@ -1,16 +1,9 @@
 {
   "name": "CryBot #1",
-  "description": "NFT de prueba #1",
+  "description": "Segundo NFT de la colección CryBot.",
   "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/1.png",
-  "external_url": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/",
   "attributes": [
-    {
-      "trait_type": "Rango",
-      "value": "Legendario"
-    },
-    {
-      "trait_type": "Serie",
-      "value": "Beta"
-    }
+    { "trait_type": "Generación", "value": "Genesis" },
+    { "trait_type": "Rareza", "value": "Raro" }
   ]
 }
