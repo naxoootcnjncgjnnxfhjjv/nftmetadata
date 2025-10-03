@@ -1,15 +1,9 @@
 {
   "name": "CryBot #0",
-  "description": "NFT de prueba #0",
-  "image": "https://raw.githubusercontent.com/<tu-usuario>/nft-metadata/main/media/nfts/0.png",
+  "description": "Primer NFT de la colección CryBot.",
+  "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/0.png",
   "attributes": [
-    {
-      "trait_type": "Rango",
-      "value": "Épico"
-    },
-    {
-      "trait_type": "Serie",
-      "value": "Alpha"
-    }
+    { "trait_type": "Generación", "value": "Genesis" },
+    { "trait_type": "Rareza", "value": "Común" }
   ]
 }
