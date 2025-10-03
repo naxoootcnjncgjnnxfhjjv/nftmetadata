@@ -9,5 +9,15 @@
     "telegram": "https://t.me/holahoabot",
     "website": "https://crybot.vercel.app"
   },
-  "base_uri": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/"
+  "base_uri": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/",
+  "items": [
+    {
+      "id": 0,
+      "metadata": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/0.json"
+    },
+    {
+      "id": 1,
+      "metadata": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/1.json"
+    }
+  ]
 }
