@@ -1,8 +1,23 @@
 {
-  "name": "CryBot Collection",
-  "description": "Colección oficial de NFTs de CryBot.",
+  "name": "CryBot NFTs",
+  "description": "Colección experimental en TON administrada por CryBot.",
   "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/banner.png",
-  "external_url": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/",
-  "seller_fee_basis_points": 500,
-  "fee_recipient": "0x7B9Fc90C99b2ae4711BDEe31049c357999e79B09"
+  "cover_image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/banner.png",
+  "external_url": "https://crybot.vercel.app",
+  "social_links": {
+    "twitter": "https://x.com/crybot",
+    "telegram": "https://t.me/holahoabot",
+    "website": "https://crybot.vercel.app"
+  },
+  "base_uri": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/",
+  "items": [
+    {
+      "id": 0,
+      "metadata": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/0.json"
+    },
+    {
+      "id": 1,
+      "metadata": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/1.json"
+    }
+  ]
 }
