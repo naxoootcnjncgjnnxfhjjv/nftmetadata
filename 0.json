@@ -1,9 +1,10 @@
 {
   "name": "CryBot #0",
-  "description": "Primer NFT de la colección CryBot.",
-  "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/0.png",
+  "description": "NFT inicial de la colección CryBot administrada en TON.",
+  "image": "",
   "attributes": [
-    { "trait_type": "Generación", "value": "Genesis" },
-    { "trait_type": "Rareza", "value": "Común" }
+    { "trait_type": "Nivel", "value": "Básico" },
+    { "trait_type": "Función", "value": "Auto-Claim" },
+    { "trait_type": "Red", "value": "TON" }
   ]
 }
