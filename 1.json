@@ -1,10 +1,10 @@
 {
-  "name": "CryBot #1",
-  "description": "NFT experimental de la colección CryBot administrada en TON.",
-  "image": "https://cdn.jsdelivr.net/gh/naxoootcnjncgjnnxfhjjv/nftmetadata@main/1.png",
+  "name": "CryBot #2",
+  "description": "NFT adicional de la colección CryBot en TON.",
+  "image": "",
   "attributes": [
-    { "trait_type": "Nivel", "value": "Avanzado" },
-    { "trait_type": "Función", "value": "Auto-Farming" },
+    { "trait_type": "Nivel", "value": "Intermedio" },
+    { "trait_type": "Función", "value": "Auto-Staking" },
     { "trait_type": "Red", "value": "TON" }
   ]
 }
