@@ -1,9 +1,10 @@
 {
   "name": "CryBot #1",
-  "description": "Segundo NFT de la colección CryBot.",
-  "image": "https://naxoootcnjncgjnnxfhjjv.github.io/nftmetadata/1.png",
+  "description": "NFT experimental de la colección CryBot administrada en TON.",
+  "image": "https://cdn.jsdelivr.net/gh/naxoootcnjncgjnnxfhjjv/nftmetadata@main/1.png",
   "attributes": [
-    { "trait_type": "Generación", "value": "Genesis" },
-    { "trait_type": "Rareza", "value": "Raro" }
+    { "trait_type": "Nivel", "value": "Avanzado" },
+    { "trait_type": "Función", "value": "Auto-Farming" },
+    { "trait_type": "Red", "value": "TON" }
   ]
 }
